@@ -13,11 +13,8 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    <a href="https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D0%BD%D0%B0%D0%B2%D1%80%D0%BE%D1%81%D1%8C-19909120b/" target="_blank">
+      Я в LinkedIn
     </a>
   </div>
 
